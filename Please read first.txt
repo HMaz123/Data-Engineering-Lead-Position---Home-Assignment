@@ -1,0 +1,12 @@
+Thank you for considering me for the Data Engineering Lead position and providing me with the opportunity to participate in the recruitment process. 
+I am thrilled to present my home assignment, which showcases my skills and passion for data engineering.
+
+Please note that while I have made significant progress in completing most of the tasks, due to unforeseen time constraints,
+I was unable to polish them to the level I desired. However, I am eager to continue working on this project during the week or explain my approach and ideas further during the interview.
+
+In this repository, you will find my web application designed to display data on characters from various websites related to Valhalla, the Viking heaven.
+
+I am excited to discuss my approach, challenges faced, and potential solutions during the interview.
+Additionally, I am more than willing to collaborate further on this project to ensure it meets the desired standards.
+
+Thank you for considering my application, and I am looking forward to the opportunity to discuss my work in person.
